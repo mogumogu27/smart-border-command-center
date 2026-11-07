@@ -24,3 +24,10 @@ To run this command center locally, you must have Python installed and your own 
 ```bash
 git clone https://github.com/mogumogu27/smart-border-command-center.git
 cd smart-border-command-center
+
+## 📸 Project Showcase
+
+https://github.com/user-attachments/assets/a2164c24-890a-4104-ad9a-22c19b1018f5
+
+
+
