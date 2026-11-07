@@ -22,5 +22,5 @@ To run this command center locally, you must have Python installed and your own 
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/smart-border-command-center.git](https://github.com/your-username/smart-border-command-center.git)
+git clone https://github.com/mogumogu27/smart-border-command-center.git
 cd smart-border-command-center
